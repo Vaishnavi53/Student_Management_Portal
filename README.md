@@ -1,14 +1,18 @@
-Student Management System (MERN Stack)
-This is a Student Management System built with the MERN stack (MongoDB, Express, React, Node.js). The system allows users to add, update, delete, and view students.
+# Student Management System (MERN Stack)
 
-Features
-Add Student: Form to add a new student with details like name, email, phone, course, branch, and year of passing.
-View All Students: Displays a list of all students with options to edit or delete.
-Update Student: Edit student details.
-Delete Student: Remove a student from the system.
+This project is a **Student Management System** built using the **MERN stack** (MongoDB, Express, React, Node.js). The system enables users to manage student records by performing operations such as adding, updating, deleting, and viewing student details.
 
-Technologies Used
-Frontend: React
-Backend: Node.js, Express.js
-Database: MongoDB
-HTTP Requests: Axios
+## Features
+
+- `Add Student`: Form to add new students with fields like name, email, phone, course, branch, and year of passing.
+- `View All Students`: List view of all students with the ability to edit or delete entries.
+- `Update Student`: Edit and update student details.
+- `Delete Student`: Remove a student from the system.
+
+## Technologies Used
+
+- **Frontend**: `React`
+- **Backend**: `Node.js`, `Express.js`
+- **Database**: `MongoDB`
+- **HTTP Requests**: `Axios`
+
